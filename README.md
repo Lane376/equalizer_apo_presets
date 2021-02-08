@@ -1,4 +1,7 @@
 # Equalizer APO Presets
+## What is Equalizer APO?
+It's an open source program for Windows that allows you to put a custom equalizer on an audio device.
+
 ## Disclaimers
 - Audio drivers will likely interfere with this equalizer. I uninstalled my Realtek driver to circumvent these issues.
 
